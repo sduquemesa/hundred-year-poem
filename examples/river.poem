@@ -1,0 +1,8 @@
+# Minimal poem
+seed "river remembers the route"
+repeat 2
+pause
+shift vowel
+erase every 4th word
+echo "river" -> "route"
+address "future reader"

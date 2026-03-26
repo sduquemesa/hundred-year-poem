@@ -1,0 +1,8 @@
+# Human and compiler as communicating parties
+seed "compiler meets a human in the dark"
+repeat 1
+glimpse 2
+pause
+shift upper
+echo "HUMAN" -> "READER"
+address "machine"
